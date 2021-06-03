@@ -10,6 +10,6 @@ Goals and Outcomes
 
 ```
 
-[Course Repo Download](https://github.com/killua-boop/cit281-lab9/tree/main/release-based-workflow-main)
+[Course Repo Files](https://github.com/killua-boop/cit281-lab9/tree/main/release-based-workflow-main)
 
 
